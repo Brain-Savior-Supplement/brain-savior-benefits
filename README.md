@@ -535,19 +535,6 @@ The following public resources may help readers understand dietary supplements, 
 - [NIA: Memory, Forgetfulness, and Aging](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-forgetfulness-and-aging)
 
 ---
-
-## Suggested Repository Description
-
-Independent Brain Savior benefits guide covering memory support, focus, mental clarity, brain fog, realistic expectations, safety notes, and cognitive wellness education.
-
----
-
-## Suggested GitHub Topics
-
-brain-savior, brain-savior-benefits, brain-savior-supplement, brain-savior-review, memory-support, focus-support, mental-clarity, calm-alertness, brain-fog, cognitive-wellness, brain-health, nootropic, supplement-safety, dietary-supplements, evidence-review
-
----
-
 ## Last Updated
 
 June 2026
